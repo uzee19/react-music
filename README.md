@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Demo available [here](https://uzee19.github.io/react-music/)
+<br>
+Live app [here](https://uzee19.github.io/react-music/)
 
 ## Available Scripts
 
