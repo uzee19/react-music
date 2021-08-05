@@ -8,7 +8,7 @@ Live app [here](https://uzee19.github.io/react-music/)
 ![alt text](public/music1.png)
 Homepage with a song library.
 
-##Songs Library
+## Songs Library
 ![alt text](public/music2.png)
 Toogle window to view songs library.
 
