@@ -1,7 +1,6 @@
 # Getting Started with Music Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<br>
+
 Live app [here](https://uzee19.github.io/react-music/)
 
 ## Music Player
